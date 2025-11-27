@@ -1,8 +1,8 @@
-# Mi Proyecto de Examen
+#Sustitucion del conlficto
+#asdñalskdñlaskdñlkas
+## Autor Linea modificada para dar conflicto desde rama conflicto por Iván Martín Nieto
 
-- git clone
-- git commit
-- git push
 
-## Autor
-Linea modificada desde rama conflicto por Iván Martín Nieto
+
+
+
