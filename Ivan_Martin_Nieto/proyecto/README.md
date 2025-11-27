@@ -1,10 +1,8 @@
-# Mi Proyecto de Examen
-
+## Mi Proyecto de Examen
 * git clone
 * git commit
 * git push
 
 ## Autor
-
-Linea modificada desde rama conflicto por Iván Martín Nieto
-
+Ivan Martin Nieto
+Linea modificada desde merge para evitar conflicto por Iván Martín Nieto
